@@ -3,7 +3,7 @@ This repository contains solutions to tasks and materials from courses at SoftUn
 
 ## The project covers [Java Fundamentals](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals)
   - [Arrays](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Arrays)
-  - [AssociativeArraysLambdaAPI](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/AssociativeArraysLambdaApi)
+  - [Maps, Lambda and Stream API](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/AssociativeArraysLambdaApi)
   - [Lists](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lists)
   - [TextProcessing](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/TextProcessing)
   - [Methods](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Methods)
