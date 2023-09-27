@@ -8,3 +8,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [TextProcessing](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/TextProcessing)
   - [Methods](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Methods)
   - [ObjectsAndClasses](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/ObjectsAndClasses)
+  - [DataTypesAndVariables](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/DataTypesAndVariables)
