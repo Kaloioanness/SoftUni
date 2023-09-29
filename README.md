@@ -7,6 +7,7 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [03 - Arrays](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Arrays)
   - [04 - Methods](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Methods)
   - [05 - Lists](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lists)
+  - [06 - Mid Exam Preparation](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/06%20-%20MidExamPreparation)
   - [07 - Objects And Classes](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/ObjectsAndClasses)
   - [08 - Maps, Lambda and Stream API](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Maps%2C%20Lambda%20And%20Stream%20API)
   - [09 - Text Processing](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/TextProcessing)
