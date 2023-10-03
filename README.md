@@ -16,4 +16,6 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [11 - Final Exam Preparation](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Excercises/11%20-%20Final%20Exam%20Preparation)
 
 # [Lab](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab)
-  
+  - [01 - Basic Syntax, Conditional Statements And Loops](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/01%20-%20BasicSyntaxConditionalStatementsAndLoops)
+  - [02 - Data Types And Variables](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/02%20-%20DataTypesAndVariables)
+  - [03 - Arrays](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/03%20-%20Arrays)
