@@ -19,3 +19,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [01 - Basic Syntax, Conditional Statements And Loops](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/01%20-%20BasicSyntaxConditionalStatementsAndLoops)
   - [02 - Data Types And Variables](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/02%20-%20DataTypesAndVariables)
   - [03 - Arrays](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/03%20-%20Arrays)
+  - [04 - Methods](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/04%20-%20Methods)
