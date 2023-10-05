@@ -20,3 +20,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [02 - Data Types And Variables](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/02%20-%20DataTypesAndVariables)
   - [03 - Arrays](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/03%20-%20Arrays)
   - [04 - Methods](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/04%20-%20Methods)
+  - [05 - Lists](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/05%20-%20Lists)
