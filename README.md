@@ -21,3 +21,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [03 - Arrays](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/03%20-%20Arrays)
   - [04 - Methods](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/04%20-%20Methods)
   - [05 - Lists](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/05%20-%20Lists)
+  - [07 - Objects And Classes](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/07%20-%20ObjectsAndClasses)
