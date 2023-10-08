@@ -23,3 +23,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [05 - Lists](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/05%20-%20Lists)
   - [07 - Objects And Classes](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/07%20-%20ObjectsAndClasses)
   - [08 - Maps, Lambda and Stream API](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/08%20-%20MapsLambdaAndStreamAPI)
+  - [09 - Text Processing](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/09%20-%20TextProcessing)
