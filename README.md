@@ -25,3 +25,7 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [08 - Maps, Lambda and Stream API](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/08%20-%20MapsLambdaAndStreamAPI)
   - [09 - Text Processing](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/09%20-%20TextProcessing)
   - [10 - Regular Expressions](https://github.com/Kaloioanness/SoftUni/tree/master/Java%20Fundamentals/Lab/10%20-%20RegularExpressions)
+
+# The project also covers [Java Advanced](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced)
+##  [Lab](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Lab)
+  - [01 - Stacks And Queues](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Lab/StacksAndQueues)
