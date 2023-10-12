@@ -29,3 +29,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
 # The project also covers [Java Advanced](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced)
 ##  [Lab](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Lab)
   - [01 - Stacks And Queues](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Lab/StacksAndQueues)
+  - [02 - MultidimensionalArrays](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Lab/02%20-%20MultidimensionalArrays)
