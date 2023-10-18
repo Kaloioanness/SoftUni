@@ -34,3 +34,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
 ## [Excercises](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises)
   - [01 - Stacks And Queues](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises/01%20-%20StacksAndQueues)
   - [02 - MultidimensionalArrays](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises/02%20-%20MultidimensionalArrays)
+  - [03 - Sets and Maps Advanced](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises/03%20-%20SetsAndMapsAdvanced)
