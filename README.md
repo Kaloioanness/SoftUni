@@ -38,3 +38,4 @@ This repository contains solutions to tasks and materials from courses at SoftUn
   - [04 - Streams, Files and Directories](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises/04%20-%20Streams%2C%20Files%20and%20Directories)
   - [05 - Functional Programming](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises/05%20-%20Functional%20Programming)
   - [06 - Difine Classes](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises/06%20-%20Difine%20Classes)
+  - [07 - Generics](https://github.com/Kaloioanness/SoftUni/tree/master/JavaAdvanced/Excercises/07%20-%20Generics)
